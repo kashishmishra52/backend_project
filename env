@@ -1,0 +1,2 @@
+PORT=8000
+MONGODB_URI=mongodb+srv://kashishofficial52:kashish123@cluster0.y9yfeaz.mongodb.net/project0?retryWrites=true&w=majority&appName=Cluster0
